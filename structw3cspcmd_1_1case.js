@@ -1,0 +1,26 @@
+var structw3cspcmd_1_1case =
+[
+    [ "dth1", "structw3cspcmd_1_1case.html#a9ecd955b7a38bbcdc8a7fa57e2baee0e", null ],
+    [ "dth2", "structw3cspcmd_1_1case.html#a42098b270949cdc199eef8951ceae9c0", null ],
+    [ "fr1", "structw3cspcmd_1_1case.html#a1d7500e4454545acfc8face358ac062c", null ],
+    [ "fr2", "structw3cspcmd_1_1case.html#a70cfd9e9b6819e59e18ed1cdbb70ade9", null ],
+    [ "frq1", "structw3cspcmd_1_1case.html#adf4487ce6db996ee84b0483b239284b0", null ],
+    [ "frq2", "structw3cspcmd_1_1case.html#afa834e33fd3f7072cc38dd5fb7dd6f6a", null ],
+    [ "icase", "structw3cspcmd_1_1case.html#a6f26113385f969e5116f9c893869779a", null ],
+    [ "idfr", "structw3cspcmd_1_1case.html#aceae2cbd6783131fe665c5f1343108e3", null ],
+    [ "idth", "structw3cspcmd_1_1case.html#a7c803296c9496f9da1e6b6f64bfb6048", null ],
+    [ "next", "structw3cspcmd_1_1case.html#a3ac889fdb8f3573196caf08bcf695560", null ],
+    [ "nfr1", "structw3cspcmd_1_1case.html#a0cb5c8494c18a97674b64c79ec242248", null ],
+    [ "nfr2", "structw3cspcmd_1_1case.html#a47d6996144bde364f7796096c138e3f5", null ],
+    [ "nfr2t", "structw3cspcmd_1_1case.html#ac46f1546c40fbea7414bdd243bf956b4", null ],
+    [ "nth1", "structw3cspcmd_1_1case.html#aa76d880c2088c35db581ccf5f87881c3", null ],
+    [ "nth2", "structw3cspcmd_1_1case.html#a636abd014ac4f15003242a1d9de43b7a", null ],
+    [ "rdfr", "structw3cspcmd_1_1case.html#aadeb36f070a806a075fc2a4e3cb10ea2", null ],
+    [ "rdth", "structw3cspcmd_1_1case.html#a74aa69a678751509f8c46b8d1463d50c", null ],
+    [ "th1", "structw3cspcmd_1_1case.html#aac168a59653e8cfaeaafdf44e10ae611", null ],
+    [ "th2", "structw3cspcmd_1_1case.html#a2d8ca019e5e2e025cbce00f522b4d4e4", null ],
+    [ "xdf1", "structw3cspcmd_1_1case.html#a8948c5d254d1ab317f89f8c402a87b5d", null ],
+    [ "xdf2", "structw3cspcmd_1_1case.html#a8f9d1bdc02fd07e6cad0efd26f7778af", null ],
+    [ "xf1", "structw3cspcmd_1_1case.html#aa6ba7bdc7b763ef1f08a946bfee626cf", null ],
+    [ "xf2", "structw3cspcmd_1_1case.html#a89d943b60634dbafe1c389e91820265f", null ]
+];
